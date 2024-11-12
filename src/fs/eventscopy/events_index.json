@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1731416231432",
+    "className": "10A",
+    "eventType": "Holiday",
+    "eventDate": "2023-12-01",
+    "filename": "event_1731416231432.json"
+  },
+  {
+    "id": "1731416236235",
+    "className": "6A",
+    "eventType": "Competition",
+    "eventDate": "2023-12-01",
+    "filename": "event_1731416236235.json"
+  }
+]

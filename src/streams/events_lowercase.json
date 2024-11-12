@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1731416231432,
+    "classname": "10a",
+    "eventtype": "holiday",
+    "eventdate": "2023-12-01"
+  },
+  {
+    "id": 1731416231433,
+    "classname": "5b",
+    "eventtype": "competition",
+    "eventdate": "2023-12-01"
+  },
+  {
+    "id": 1731416231434,
+    "classname": "6a",
+    "eventtype": "holiday",
+    "eventdate": "2023-12-01"
+  },
+  {
+    "id": 1731416231435,
+    "classname": "2d",
+    "eventtype": "parentmeeting",
+    "eventdate": "2023-12-01"
+  },
+  {
+    "id": 1731416231436,
+    "classname": "4c",
+    "eventtype": "holiday",
+    "eventdate": "2023-12-01"
+  },
+  {
+    "id": 1731418376837,
+    "classname": "10a",
+    "eventtype": "holiday",
+    "eventdate": "2023-12-01"
+  },
+  {
+    "id": 1731418376838,
+    "classname": "9b",
+    "eventtype": "competition",
+    "eventdate": "2023-11-15"
+  }
+]
